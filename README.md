@@ -1,4 +1,4 @@
-# Financial Transaction Analyzer
+# Financial Transactions Analyzer
 
 Change language to: [Português Brasileiro](./LEIAME.md)
 

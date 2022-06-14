@@ -1,4 +1,4 @@
-# Financial Transaction Analyzer
+# Financial Transactions Analyzer
 
 Trocar idioma para: [English](./README.md)
 
